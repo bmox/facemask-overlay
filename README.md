@@ -1,4 +1,5 @@
 # facemask-overlay
+For better mask overlay you need better mask annotation.This is just first try.
 ![Demo](https://blogger.googleusercontent.com/img/a/AVvXsEjXBqx8j-MydPIQVoB7g8Rj-b_q_c5Od8nvqDRsX7ubqgOj9iD-cqS1UsjpriUfbm7A61yLgPqGqVb7XexRKRq5ApT8JQp29qCJUpNSyun6PX5xKgRHRd-XOu0NbeNwSK9fOUf9GnxTDTK4yTx9x9wKjL1CTQj-iaXwuVTrxNWS3cqYsx_UkcucFe5ftA=s1688)
 <br>
 Run on Google Colab <br>
